@@ -6,7 +6,7 @@ body {
 }
 
 .card {
-    margin-top: 100px;
+   margin-top: 100px;
     width: 190px;
     height: 254px;
     background: #07182E;
@@ -54,5 +54,6 @@ body {
     inset: 5px;
     border-radius: 15px;
 }
+
 
 
