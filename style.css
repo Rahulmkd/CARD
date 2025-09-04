@@ -9,7 +9,8 @@ body {
     margin-top: 100px;
     width: 190px;
     height: 254px;
-    background: #07182E;
+    /* background: #07182E; */
+    background: #000;
     position: relative;
     display: flex;
     place-content: center;
@@ -50,7 +51,8 @@ body {
 .card::after {
     content: "";
     position: absolute;
-    background: #07182E;
+    /* background: #07182E; */
+    background: rebeccapurple;
     inset: 5px;
     border-radius: 15px;
 }
