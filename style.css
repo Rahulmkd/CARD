@@ -23,7 +23,7 @@ body {
 .card h2 {
     z-index: 1;
     color: white;
-    font-size: 2rem;
+    font-size: 1rem;
 
 }
 
@@ -51,8 +51,7 @@ body {
 .card::after {
     content: "";
     position: absolute;
-    /* background: #07182E; */
-    background: rebeccapurple;
+    background: #07182E;
     inset: 5px;
     border-radius: 15px;
 }
